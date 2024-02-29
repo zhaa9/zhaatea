@@ -25,3 +25,19 @@
     "eslint-config-next": "14.1.0"
   }
 }
+"description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhaa9/zhaatea.git"
+  },
+  "keywords": [
+    "vdmaxtea"
+  ],
+  "author": "vdmax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaa9/zhaatea/issues"
+  },
+  "homepage": "https://github.com/zhaa9/zhaatea"
+}
