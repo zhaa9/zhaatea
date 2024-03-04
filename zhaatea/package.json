@@ -1,6 +1,6 @@
 {
   "name": "zhaatea",
-  "version": "0.1.0",
+  "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,7 +12,7 @@
     "npm-dependants": "^2.1.2",
     "react": "^18",
     "react-dom": "^18",
-    "zhaatea": "^0.1.0"
+    "zhaatea": "^1.1.2"
   },
   "devDependencies": {
     "@types/node": "^20",
