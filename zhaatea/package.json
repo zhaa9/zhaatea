@@ -29,7 +29,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:zhaa9/zhaatea.git"
+    "url": "https://github.com/zhaa9/zhaatea.git"
   },
   "keywords": [
     "zhaatea"
